@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "server",
+  "version": "1.0.0",
+  "main": "lib/server.js",
+  "dependencies": {
+    "glob": "^7.1.6"
+  }
+}

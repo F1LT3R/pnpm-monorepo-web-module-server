@@ -1,0 +1,6 @@
+{
+    "private": true,
+    "name": "@demo/test4",
+    "main": "src/index.mjs",
+    "version": "0.1.0"
+}

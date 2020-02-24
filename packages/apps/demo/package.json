@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@demo/app",
+    "serverRoot": "src",
+    "dependencies": {
+        "@demo/test": "*",
+        "@demo/test2": "*"
+    }
+}
